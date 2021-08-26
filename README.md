@@ -13,6 +13,7 @@ I'm a web development and anything related to open source technologies. Therefor
 ### Where you can find me
 
 - [Syahid246.rf.gd](https://syahid246.rf.gd)
+- [Twitter.com/programmercilik](https://twitter.com/programmercilik/)
 - [LinkedIn.com/in/programmer-cilik](https://linkedin.com/in/programmer-cilik/)
 - [Facebook.com/ProgrammerCilikSyahid](https://facebook.com/programmerciliksyahid)
 
