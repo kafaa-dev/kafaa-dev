@@ -2,7 +2,7 @@
 
 Hello there, my name is Kafaa Billahi Syahida. I am a web developer since 2020. On this GitHub page you will find all my open source projects.
 
-I'm a web development and anything related to open source technologies. Therefore, since 2020 I focused on web development especially on PHP, HTML and friends, MySQL and others to provide solution to my clients.
+I'm a web development and anything related to open source technologies. Therefore, since 2020 I focused on web development especially on PHP, Python, HTML and friends, MySQL and others to provide solution to my clients.
 
 ### My projects that I have been/are working on
 
