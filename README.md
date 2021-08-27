@@ -20,35 +20,35 @@ I'm a web development and anything related to open source technologies. Therefor
 ### Knowledges
 
 <a href="https://php.net">
-  <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="150" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" height="100" alt="PHP"/>
 </a>
 <a href="https://html.spec.whatwg.org">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="150" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="100" alt="HTML"/>
 </a>
 <a href="https://w3.org/TR/CSS/#css">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="150" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="100" alt="CSS"/>
 </a>
 <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="150" alt="Javascript"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="100" alt="Javascript"/>
 </a>
 <a href="https://python.org">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="150" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="100" alt="Python"/>
 </a>
 <a href="https://mysql.com">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="150" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="100" alt="MySQL"/>
 </a>
 <a href="https://palletsprojects.com/p/flask">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" width="150" alt="Python Flask"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" height="100" alt="Python Flask"/>
 </a>
 <a href="https://nodejs.org">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="150" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="100" alt="Node.js"/>
 </a>
 <a href="https://hapi.dev">
-  <img src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" width="150" alt="Hapi Node.js"/>
+  <img src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" height="100" alt="Hapi Node.js"/>
 </a>
 <a href="https://getbootstrap.com">
-  <img src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo-shadow.png" width="150" alt="Bootstrap"/>
+  <img src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo-shadow.png" height="100" alt="Bootstrap"/>
 </a>
 <a href="https://tabler.io">
-  <img src="https://raw.githubusercontent.com/tabler/tabler/dev/src/static/logo.svg" width="300" alt="Tabler"/>
+  <img src="https://raw.githubusercontent.com/tabler/tabler/dev/src/static/logo.svg" height="100" alt="Tabler"/>
 </a>
