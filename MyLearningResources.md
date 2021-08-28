@@ -3,7 +3,8 @@ Hello there, now I'm going to share a story about how I learned and my sources o
 
 ### HTML & CSS & JavaScript & PHP & Python & MySQL
 Resources :
-- [Menjadi Webmaster dalam 30 Hari](https://rioastamal.net/menjadi-webmaster-dalam-30-hari/)
+- [Menjadi Webmaster dalam 30 Hari](https://rioastamal.net/ebooks) : [Download Ebook]()
+- [Mastering Kode HTML](https://rioastamal.net/ebooks) : [Download Ebook](https://github.com/syahid246/syahid246/raw/main/Mastering%20Kode%20HTML.pdf)
 - [W3Schools.com](https://w3schools.com)
 
 ### Flask
