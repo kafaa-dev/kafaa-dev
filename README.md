@@ -17,6 +17,13 @@ I'm a web development and anything related to open source technologies. Therefor
 - [LinkedIn.com/in/programmer-cilik](https://linkedin.com/in/programmer-cilik/)
 - [Facebook.com/ProgrammerCilikSyahid](https://facebook.com/programmerciliksyahid)
 
+### Skills
+
+- Web Programmer
+- Web Developer
+- Web Scrapping
+- Web Designer
+
 ### Knowledges
 
 <a href="https://php.net">
