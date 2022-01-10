@@ -7,8 +7,9 @@ I'm a web development and anything related to open source technologies. Therefor
 ### My projects that I have been/are working on
 
 - **2020 Nov &rarr; 2020 Nov** &rarr; [Crud](https://github.com/syahid246/crud)
-- **2020 Nov &rarr; 2021** &rarr; Packing (Being worked on)
+- **2020 Nov &rarr; 2021 September** &rarr; Packing (Canceled because not safety (use mysql_ and sql injection))
 - **2020 Nov &rarr; 2021 Feb** &rarr; [Video Player](https://isofan24.github.io/youtube/)
+- **2021 Desember &rarr; 2022** &rarr; Packing (Being worked on (use PDO))
 
 ### Where you can find me
 
