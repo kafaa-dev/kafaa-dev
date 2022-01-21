@@ -20,7 +20,7 @@ I'm a web development and anything related to open source technologies. Therefor
 
 ### Skills
 
-- Web Programmer
+- Web Programming
 - Web Developer
 - Web Scrapping
 - Web Designer
