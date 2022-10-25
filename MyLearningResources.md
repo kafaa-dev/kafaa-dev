@@ -3,8 +3,8 @@ Hello there, now I'm going to share a story about how I learned and my sources o
 
 ### HTML & CSS & JavaScript & PHP & Python & MySQL
 Resources :
-- [Menjadi Webmaster dalam 30 Hari](https://rioastamal.net/ebooks) : [Download Ebook](https://github.com/syahid246/syahid246/raw/main/Menjadi%20Webmaster%20Dalam%2030%20Hari.pdf)
-- [Mastering Kode HTML](https://rioastamal.net/ebooks) : [Download Ebook](https://github.com/syahid246/syahid246/raw/main/Mastering%20Kode%20HTML.pdf)
+- [Menjadi Webmaster dalam 30 Hari](https://rioastamal.net/ebooks) : [Download Ebook](https://rioastamal.net/files/ebook/menjadi-webmaster-dalam-30-hari-2018-update.pdf)
+- [Mastering Kode HTML](https://rioastamal.net/ebooks) : [Download Ebook](https://rioastamal.net/files/ebook/mastering-kode-html.pdf)
 - [Lokomedia](http://bukulokomedia.com)
 - [W3Schools.com](https://w3schools.com)
 
