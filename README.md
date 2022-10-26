@@ -91,7 +91,9 @@
 
 <br>
 
----
+## 💬 Other
+
+<details><summary>:sparkles: Quotes</summary><dl><dd>
 
 <p align="center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes">
@@ -99,11 +101,13 @@
     </a>
 </p>
 
-## :bar_chart: Github Stats
+</dd></dl></details>
 
-<details><summary><h3>🔥 Streak Stats</h3></summary>
+<details><summary>:bar_chart: GitHub Stats</summary>
+<br>
+<dl><dd>
 
-----
+<details><summary>🔥 Streak Stats</summary>
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=syahid246&theme=tokyonight_duo" alt="syahid246" />
@@ -112,13 +116,11 @@
 </details>
 
 <details>
-<summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
+<summary>💻 GitHub Profile Stats</summary>
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="syahid246's Github Stats" src="https://github-readme-stats.vercel.app/api?username=syahid246&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230" />
+	    <img alt="syahid246's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=syahid246&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230" />
     </a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syahid246&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="syahid246" height="230" />
     <br>
@@ -127,17 +129,13 @@
 
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
+<details><summary>⚡ Recent GitHub Activity</summary>
 
 <a href="https://github.com/syahid246"><img alt="syahid246's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=syahid246&custom_title=syahid246's%20Contribution%20Graph&theme=react-dark" /></a>
 
 </details>
 
-<details><summary> <h3> 🏆 Git profile Trophies </h3></summary>
-
-----
+<details><summary>🏆 Git profile Trophies</summary>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -147,9 +145,9 @@
 
 </details>
 
-<br><br>
+</dd></dl></details>
 
-## 🐍 A Snake Eating my Contributions Graph
+<details><summary>:snake: A Snake Eating my Contributions Graph</summary><dl><dd>
 
 <p align="center">
     <picture>
@@ -158,3 +156,5 @@
         <img src="https://github.com/syahid246/syahid246/blob/output/github-contribution-grid-snake.svg?raw=true">
     </picture>
 </p>
+
+</dd></dl></details>
