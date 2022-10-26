@@ -79,7 +79,7 @@
 <p align="center">
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-gray.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://desktop.github.com/"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-purple.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://desktop.github.com/"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-792f9e.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=white"></a>
     <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
     <a href="https://www.json.org/"><img alt="JSON" src="https://img.shields.io/badge/json-44cc11.svg?style=for-the-badge&logo=json&logoColor=white"></a>
