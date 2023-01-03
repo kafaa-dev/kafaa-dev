@@ -110,7 +110,7 @@
 <details><summary>🔥 Streak Stats</summary>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syahid246&theme=tokyonight_duo" alt="syahid246" />
+    <img src="https://streak-stats.demolab.com/?user=syahid246&theme=tokyonight_duo" alt="syahid246" />
 </p>
 
 </details>
@@ -131,7 +131,7 @@
 
 <details><summary>⚡ Recent GitHub Activity</summary>
 
-<a href="https://github.com/syahid246"><img alt="syahid246's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=syahid246&custom_title=syahid246's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/syahid246"><img alt="syahid246's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=syahid246&custom_title=syahid246's%20Contribution%20Graph&theme=react-dark" /></a>
 
 </details>
 
