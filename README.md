@@ -12,7 +12,7 @@ Check out below to see my skills!
 
 ### 👨‍💻 Languages
 
-[![HTML, CSS, JavaScript, TypeScript, Go, Bash, PHP, Lua, and Nix](https://skillicons.dev/icons?i=html,css,js,ts,go,php,bash,lua,nix)](https://skillicons.dev)
+[![HTML, CSS, JavaScript, TypeScript, Go, Bash, PHP, and Nix](https://skillicons.dev/icons?i=html,css,js,ts,go,php,bash,nix)](https://skillicons.dev)
 
 ### 📚 Libraries and Frameworks
 
