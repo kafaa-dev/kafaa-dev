@@ -1,3 +1,5 @@
+![Cover](./cover-fire.png)
+
 # 👋 Hi there, I'm Kafaa!
 
 I've been a full-stack web developer since 2020, and I'm currently learning web development and how it works under the hood.
